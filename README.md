@@ -1,8 +1,8 @@
 ![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
 
-# n8n-nodes-convert-image
+# n8n-nodes-convert-heic-image
 
-Custom n8n node for converting images to different formats (JPG, PNG, BMP, TIFF, GIF).  
+Custom n8n node for converting HEIC images to different formats (JPG, PNG, BMP, TIFF, GIF).  
 Handles both base64 and file inputs, outputs base64 or file data, and allows setting image quality.
 
 ## Features
@@ -20,7 +20,7 @@ Handles both base64 and file inputs, outputs base64 or file data, and allows set
 ## Installation
 
 ```bash
-npm install n8n-nodes-convert-image
+npm install n8n-nodes-convert-heic-image
 ```
 
 ## Usage
@@ -41,3 +41,8 @@ npm install n8n-nodes-convert-image
 ## License
 
 [MIT](LICENSE.md)
+
+## Credits
+
+Shout out to @mason276752 for the original node https://github.com/mason276752/n8n-nodes-convert-image
+
